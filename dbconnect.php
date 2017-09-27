@@ -1,9 +1,9 @@
 <?php
 
-$db_host = "localhost";
-$db_name = "db";
+$db_host = "13.126.202.106";
+$db_name = "itcinfo";
 $db_user = "root";
-$db_pass = "toor";
+$db_pass = "root";
 
 
 $conn = new mysqli($db_host, $db_user, $db_pass, $db_name);
