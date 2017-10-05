@@ -68,7 +68,7 @@ $userRow = mysqli_fetch_array($res, MYSQLI_ASSOC);
     <div class="jumbotron">
         <h1>Welcome, <?php echo $userRow['username']; ?></h1>
         <p>WELCOME TO ITC INFOTECH !!!!</p>
-        <p>This Portoal is Designed to Record ITC Employee Details !!!!!!!</p>
+        <p>This Portoal is Designed to Record ITC Employee Details</p>
         <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
     </div>
 
